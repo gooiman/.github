@@ -5,7 +5,7 @@
 
 🔗**리틀리 페이지**
 
-https://litt.ly/guiman
+https://litt.ly/gooiman
 
 
 ✅**한 줄 소개**
