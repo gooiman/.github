@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/7fe45143-796b-444d-b2ca-4da98ddf55ab)
 
-🔗리틀리 페이지
+🔗**리틀리 페이지**
 
 https://litt.ly/guiman
 <!--
